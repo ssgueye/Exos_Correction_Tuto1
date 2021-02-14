@@ -1,0 +1,11 @@
+*Faites ses exercices de deux manières différentes*
+
+#========= Exo1 ===========#:
+1. Ecrire une fonction en C qui permet d'afficher un message "Bonjour".
+2. Essayez d'écrire cette même fonction en allant à la ligne
+
+#========= Exo2 ===========#:
+1. Ecrire une fonction en C qui permet de lire un entier et l'afficher
+2. Ecrire une fonction qui demande à l'utilisateur son nom puis son age. 
+Le programme va afficher ce message: 
+"Bonjour, vous êtes M/Mdme votre_nom.Vous avez votre_age"
